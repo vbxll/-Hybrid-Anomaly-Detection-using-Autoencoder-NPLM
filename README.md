@@ -7,7 +7,7 @@ This repository provides an advanced hybrid anomaly detection model that combine
 The concept is inspired by the research paper *"Robust Resonant Anomaly Detection with NPLM"* by *Gaia Grosso, Debajyoti Sengupta, Tobias Golling, and Philip Harris.* By leveraging the strengths of *deep learning* (Autoencoder) and *physics-inspired models* (NPLM), this hybrid model aims to enhance anomaly detection performance across diverse applications.
 
 - *Primary Developer*: Giri D  
-- *GitHub Repository*: [Hybrid Anomaly Detection using Autoencoder + NPLM](https://github.com/vbxll/-Hybrid-Anomaly-Detection-using-Autoencoder-NPLM)
+- *GitHub Repository*: [Hybrid Anomaly Detection using Autoencoder + NPLM](https://github.com/vbxll/Hybrid-Anomaly-Detection-using-Autoencoder-NPLM)
 
 ---
 
@@ -109,7 +109,7 @@ If you use the NPLM concept from this project, please cite the original paper:
 
 If you use this hybrid approach, please cite the following:
 
-- Giri D, "Hybrid Anomaly Detection using Autoencoder + NPLM," GitHub Repository [Link](https://github.com/vbxll/-Hybrid-Anomaly-Detection-using-Autoencoder-NPLM).  
+- Giri D, "Hybrid Anomaly Detection using Autoencoder + NPLM," GitHub Repository [Link](https://github.com/vbxll/Hybrid-Anomaly-Detection-using-Autoencoder-NPLM).  
   *Designation*: CTO of Vybron, Head of Quantum Computing at AIQUBIT, Lead AI Developer at KAHE's R&D Sector.
 
 ---
