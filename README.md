@@ -2,7 +2,7 @@
 
 ### *Introduction*
 
-This repository provides an advanced hybrid anomaly detection model that combines an *Autoencoder* with the *New Physics Learning Machine (NPLM). This approach is designed to detect both obvious and subtle anomalies in **time-series data*, offering a robust solution for real-world anomaly detection challenges.
+This repository provides an advanced hybrid anomaly detection model that combines an *Autoencoder* with the *New Physics Learning Machine (NPLM).* This approach is designed to detect both obvious and subtle anomalies in **time-series data*, offering a robust solution for real-world anomaly detection challenges.
 
 The concept is inspired by the research paper *"Robust Resonant Anomaly Detection with NPLM"* by *Gaia Grosso, Debajyoti Sengupta, Tobias Golling, and Philip Harris.* By leveraging the strengths of *deep learning* (Autoencoder) and *physics-inspired models* (NPLM), this hybrid model aims to enhance anomaly detection performance across diverse applications.
 
