@@ -1,4 +1,4 @@
-# Hybrid Approach for Anomaly Detection using Autoencoder + NPLM in PyTorch
+# Hybrid Approach for Anomaly Detection using Autoencoder + NPLM in PyTorch.
 
 import torch
 import torch.nn as nn
